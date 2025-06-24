@@ -11,6 +11,6 @@
   "license": "MIT",
   "type": "commonjs",
   "devDependencies": {
-    "vite": "^6.2.5"
+    "vite": "^7.0.0"
   }
 }
