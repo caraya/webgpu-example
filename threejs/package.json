@@ -11,7 +11,7 @@
   "license": "MIT",
   "type": "commonjs",
   "dependencies": {
-    "three": "^0.175.0"
+    "three": "^0.177.0"
   },
   "devDependencies": {
     "vite": "^7.0.0"
